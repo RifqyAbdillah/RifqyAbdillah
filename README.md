@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an informatics engineering student at Universitas Negeri Semarang<br>🌱 I’m currently learning AI and Software Development
+🔭 I’m an informatics engineering student at Universitas Negeri Semarang<br>🌱 I’m currently learning AI, Software Development, and UI/UX
 
 
 ## 🌐 Socials:
